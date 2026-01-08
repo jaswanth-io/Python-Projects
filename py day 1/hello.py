@@ -1,2 +1,5 @@
-print("hello\nfirst day in python\ntesting github\nkinda nervous ")
+print("hello\n"
+      "first day in python\n"
+      "testing github\n"
+      "kinda nervous")
 
